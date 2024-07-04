@@ -9,3 +9,6 @@ Welcome to the **Tab Container Animation Project**! This project demonstrates an
 - **Persistent State**: Leveraging `AutomaticKeepAliveClientMixin` to ensure that the state of the widgets is preserved, even when scrolling.
 - **Responsive Design**: Optimized for various screen sizes and orientations.
 - **Scrollable Image Gallery**: Horizontal scrolling to view multiple images within each tab.
+
+https://github.com/savavskoy/tab_container/assets/74531964/2b18f3ec-df1d-4caf-8743-906412602ffd
+
